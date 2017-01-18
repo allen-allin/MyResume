@@ -99,6 +99,10 @@ body {
 	color: #04422F;
 	overflow: hidden;
 }
+.section3 a {
+	color: #f5f9fa;
+	text-decoration: none;
+}
 .section3 .main {
 	width: 100%;
 	margin-top: 100px;
@@ -123,10 +127,7 @@ body {
 	margin-left: -100%;
 	font-size:20px;
 }
-.section3 a{
-	color: #04422F;
-	text-decoration: none;
-}
+
 .section3 a:hover{
 	text-decoration:underline;
 }

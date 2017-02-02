@@ -1,6 +1,6 @@
 $(function(){
 	$('#main_box').fullpage({
-		sectionsColor: ['#1bbc9b', '#1889C5', '#7BAABE', '#91B493'],
+		sectionsColor: ['#ff5722', '#1889C5', '#1bbc9b', '#91B493'],
 		resize:true,
 		anchors: ['page1', 'page2', 'page3', 'page4'],
 		menu:"#menu",
